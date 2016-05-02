@@ -1,6 +1,6 @@
 {
   "name": "ng-embed",
-  "version": "2.0.4",
+  "version": "2.0.6",
   "description": "An AngularJS filter to convert text into emoticons.",
   "main": "./src/ng-embed.js",
   "scripts": {
